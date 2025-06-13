@@ -8,6 +8,6 @@ It's very likely to be "not good".
 
 # Acknowledgements
 
-Steve Losh : For a primer on common lisp for a cli application, Aport and batchcolor and all...
-Victor Mendonca : For a primer on ZFS
-Lexi Summer Hale : For her rant about ncurses and enlightening insights in how terminals works
+Steve Losh : For a primer on common lisp for a cli application, Aport and batchcolor and all...  
+Victor Mendonca : For a primer on ZFS  
+Lexi Summer Hale : For her rant about ncurses and enlightening insights in how terminals works  
